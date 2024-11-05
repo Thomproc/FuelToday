@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Fuel Today</string>
+    <string name="btn_search_station">Rechercher</string>
+    <string name="rayon">Rayon :</string>
+    <string name="unite">Km</string>
+    <string name="trier">Trier par :</string>
+    <string name="trier_hint">Trier</string>
+    <string name="tv_pref_services">Services disponibles :</string>
+    <string name="tv_fuel">Carburants :</string>
+    <string name="title_city">Ville :</string>
+    <string name="title_address">Adresse :</string>
+    <string name="btn_aller">Aller</string>
+    <string name="tv_fuel_title">Carburants</string>
+    <string name="tv_services_title">Services</string>
+    <string name="engrenage_tooltip">Préférences</string>
+
+    <string-array name="fuel_types">
+        <item>SP98</item>
+        <item>SP95</item>
+        <item>E10</item>
+        <item>Gazole</item>
+        <item>GPLc</item>
+    </string-array>
+
+    <string-array name="order_by_options">
+        <item>Prix croissant</item>
+        <item>Proximité</item>
+    </string-array>
+
+    <string-array name="services">
+        <item>Vente de gaz domestique (Butane, Propane)</item>
+        <item>Station de gonflage</item>
+        <item>DAB (Distributeur automatique de billets)</item>
+        <item>Automate CB 24/24</item>
+        <item>Boutique alimentaire</item>
+        <item>Piste poids lourds</item>
+        <item>Boutique non alimentaire</item>
+        <item>Carburant additivé</item>
+        <item>Lavage automatique</item>
+        <item>Toilettes publiques</item>
+        <item>Lavage manuel</item>
+        <item>Restauration à emporter</item>
+        <item>Location de véhicule</item>
+        <item>Relais colis</item>
+        <item>Laverie</item>
+        <item>Vente d\'additifs carburants</item>
+        <item>Services réparation / entretien</item>
+        <item>Restauration sur place</item>
+        <item>Wifi</item>
+        <item>Vente de fioul domestique</item>
+        <item>Vente de pétrole lampant</item>
+        <item>Bornes électriques</item>
+        <item>Bar</item>
+        <item>Espace bébé</item>
+        <item>Douches</item>
+        <item>Aire de camping-cars</item>
+        <item>GNV</item>
+    </string-array>
+
+
+</resources>
